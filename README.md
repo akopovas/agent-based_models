@@ -1,2 +1,4 @@
 # agent-based_models
 The repository contains original agent-based model devoleped within the project 'Developing behaviour models of agent-inidividuals with complex relations: methods of agent clustering and optimisation of environment characteristics'
+The first folder contains the developed an extended multi-sector model of bounded-neighbourhood with differentiated types of resources and intersectoral commodity-money interactions implemented in the AnyLogic simulation tools (please, see anylogic.com).  
+This second folder contains the developed multi-sector bounded-neighbourhood model implemented within the FLAME GPU Framework (please, see flamegpu.com). Note, the installation process is needed and descoped here: https://github.com/FLAMEGPU/FLAMEGPU2/ In particular, you can use MS Visual Studio 2019 for compiling and running this model, if the NVIDIA card is available.  
